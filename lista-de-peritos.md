@@ -86,7 +86,7 @@ REGIÃO NORDESTE
 		 
 	     * [Mauricio Carlos (Informática Forense aplicada a Produção Antecipada de Provas e análises técnicas para respostas a quesitos) ](https://www.periciainfo.com.br)	 
 		 
-	     * [Mastroianni Rufino (Gestão de TI e Pericia Forense) ](http://lattes.cnpq.br/1813692220309624)
+	     * [Mastroianni Oliveira (Perito em Computação Forense) ](http://lattes.cnpq.br/1813692220309624)
 
     * IGUATU		 
 		 
